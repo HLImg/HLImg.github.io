@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>plan2lzp</title>
+    <link href="/2024/01/23/plan2lzp/"/>
+    <url>/2024/01/23/plan2lzp/</url>
+    
+    <content type="html"><![CDATA[<h2 id="2024-01"><a href="#2024-01" class="headerlink" title="2024-01"></a>2024-01</h2><h3 id="Week-04"><a href="#Week-04" class="headerlink" title="Week-04"></a>Week-04</h3><ul><li><input disabled="" type="checkbox"> Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising<ul><li><input disabled="" type="checkbox"> 论文阅读以及笔记</li><li><input disabled="" type="checkbox"> 实验复现（PyTorch）</li><li><input disabled="" type="checkbox"> Deadline: 2024&#x2F;01&#x2F; 26</li></ul></li><li><input disabled="" type="checkbox"> FFDNet: Toward a Fast and Flexible Solution for CNN based Image Denoising<ul><li><input disabled="" type="checkbox"> 论文阅读以及笔记</li><li><input disabled="" type="checkbox"> 实验复现（PyTorch）</li><li><input disabled="" type="checkbox"> Deadline: 2024&#x2F;01&#x2F; 31</li></ul></li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>lzp</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>install.md</title>
     <link href="/2024/01/22/install-md/"/>
     <url>/2024/01/22/install-md/</url>
